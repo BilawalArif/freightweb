@@ -1,0 +1,37 @@
+
+
+#gs{
+    height: 600px;
+    
+    background-image: url(images/img4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+   
+   }
+
+#b1{
+
+margin-left: 624px;
+margin-top:500px;
+padding: 10px;
+border-radius: 5px;
+
+
+
+}
+#b1:hover{
+
+    background-color: rgba(197, 223, 231, 0.993);
+}
+
+#t1{
+
+color: aliceblue;
+margin-left: 110px;
+margin-top:-300px;
+font-size: 400%;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
